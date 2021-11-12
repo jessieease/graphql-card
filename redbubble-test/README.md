@@ -1,19 +1,13 @@
-# Getting Started with Create React App
-
-
-## Test Strategy
- - Unit Test
-
+# Getting Started with this Camera App
 
 ### `yarn start`
+run application with yarn start
 
+## Test Strategy
+ - Unit Test by Enzyme
 
 ### `yarn test`
+ - run test with yarn test
 
-### `yarn build`
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 
