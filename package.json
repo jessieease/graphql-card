@@ -3,11 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/react-testing": "^4.0.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "apollo-boost": "^0.4.9",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "graphql": "^16.0.1",
+    "graphql-playground-react": "^1.7.28",
+    "lru-cache": "^6.0.0",
     "react": "^17.0.2",
+    "react-apollo": "^3.1.5",
     "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
@@ -34,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
   }
 }
